@@ -1,0 +1,42 @@
+
+h1 {
+    font-family: fantasy;
+    font-size: 48px;
+    color: black;
+    text-align: center;
+}
+h2 {
+    font-family: fantasy;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+h3 {
+    font-family: cursive;
+    font-size: 20px;
+    color: darkred;
+    text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+ol {
+display: block;
+list-style-type: georgian;
+background: #006400;
+margin: 200px;
+padding-left: 370px;
+}
+
+
+
+p7{
+    font-family: fantasy;
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+}
+
